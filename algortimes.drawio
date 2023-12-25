@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T09:33:55.341Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="SvSDv3hKkkQ0dMHJwJyQ" type="github">
-  <diagram name="Pagina-1" id="mftCWkd5bGzzDJL4hoiU">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-12-25T09:39:58.747Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fnSoamUdkkqlrEUQZd4G" version="22.1.11" type="github">
+  <diagram name="Q1" id="mftCWkd5bGzzDJL4hoiU">
+    <mxGraphModel dx="1593" dy="1056" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qJqhZgiqVZzM-4LJq4SP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qJqhZgiqVZzM-4LJq4SP-1" target="qJqhZgiqVZzM-4LJq4SP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qJqhZgiqVZzM-4LJq4SP-1" value="BEGIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-66" y="132" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qJqhZgiqVZzM-4LJq4SP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qJqhZgiqVZzM-4LJq4SP-2" target="qJqhZgiqVZzM-4LJq4SP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qJqhZgiqVZzM-4LJq4SP-2" value="result &amp;lt;-- 10 + 20" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-66" y="228" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qJqhZgiqVZzM-4LJq4SP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qJqhZgiqVZzM-4LJq4SP-4" target="qJqhZgiqVZzM-4LJq4SP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qJqhZgiqVZzM-4LJq4SP-4" value="O&lt;br&gt;&quot;Het resultaat is: &quot;, result" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-123.5" y="324" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qJqhZgiqVZzM-4LJq4SP-5" value="END" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-66" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qJqhZgiqVZzM-4LJq4SP-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BEGIN&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; result &amp;lt;-- 10 + 20&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; Schrijf &quot;Het resultaat is: &quot;, result&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;END&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="288" y="136" width="334" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
